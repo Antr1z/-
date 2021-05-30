@@ -1,0 +1,48 @@
+<html>
+<h1>
+<img src="https://image.freepik.com/free-vector/travel-logo_15146-33.jpg">
+<nav>
+                <a href="#main">Главная</a>
+                <a href="#catalog">Каталог</a>
+                <a href="#action">Акции и скидки</a>
+                <a href="">Наши цены</a>
+                <a href="#order">Наши данные</a>
+                <a href="reviews">Отзывы</a>
+            </nav>
+<div>
+    <h2 id="catalog">Каталог</h2>
+    <iframe width="400" height="300" src="https://www.youtube.com/embed/yxvb3To7wu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="400" height="300" src="https://www.youtube.com/embed/YtZZ-hxz9TI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="400" height="300" src="https://www.youtube.com/embed/hMPMUDydTtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="400" height="300" src="https://www.youtube.com/embed/6ASD8gHrDeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<h4 id="action">Акции и скидки</h4>
+<iframe width="400" height="300" src="https://www.youtube.com/embed/zo86Zk7T_-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<footer>
+ <h6 id="reviews">Отзывы</h6>
+    <section class="reviews">
+                <article class="review">
+                    <p class="review-text">
+                        <span>Олег</span><br/>
+                        Были на Гаваях.Вся семья в восторге!
+                    </p>
+                </article>
+                <article class="review">
+                    <p class="review-text">
+                        <span>Наталья</span><br/>
+                        Спасибо за отдых! Очень классно!
+                    </p>
+                </article>
+                <article class="review">
+                    <p class="review-text">
+                        <span>Анна</span><br/>
+                        Ездели в Канаду,очень понравилось!<br/>
+                    </p>
+                </article>
+            </section>
+   <h3 id="order">Наши данные</h3>
+            <p><b>Эл.почта:travelist@mail.ru</b></p>
+            <p><b>Телефон:+74958752824</b></p>
+        </footer>
+</h1>
+</html>
