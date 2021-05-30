@@ -1,5 +1,6 @@
 body {
     font-family: sans-serif;
+    background-image: linear-gradient(to right, #C9F76F, #FFFF73, #67e667);
 }
 
 h1 {
@@ -18,19 +19,20 @@ div {
 }
 nav a {
     text-decoration: none;
-    font-size: 20px;
+    font-size: 25px;
     color: navy;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-top: 50px;
+    margin-bottom: 30px;
 }
 footer {
-    background-image: linear-gradient(to right, #C9F76F, #FFFF73, #67e667);
+    
     color: teal;
     padding: 10px;
-    font-size: 20px;
+    font-size: 15px;
+    text-align:center;
 }
 .order {
-    display: flex;
+    flex:right;
     border-top: 5px solid navy;
     border-bottom: 5px solid navy;
     justify-content: space-between; 
@@ -42,25 +44,30 @@ footer {
 
 .order {
     width: 120px;
+    flex:right;
 }
-.action {
+.video {
     display: flex;
     border-top: 5px solid navy;
     border-bottom: 5px solid navy;
     justify-content: space-between; 
-    width: 700px;
+    width: 400px;
     margin: 0 auto;
     padding: 30px;
-    text-align: center;
+    text-align:center;
 }
 
 .action {
     width: 120px;
+    display:flex;
+    text-align:center;
 }
 .reviews {
+    height:120px;
     width: 870px;
-    float: left;
+    text-align:center;
     margin-left: 30px;
+
 }
 
 
@@ -68,6 +75,7 @@ footer {
     border-left: 10px double navy;
     width: 350px;
     padding-left: 10px;
+    text-align:center;
 }
 
 .review-text::before {
@@ -75,4 +83,9 @@ footer {
     width: 60px;
     height: 30px;
     display: inline-block;
+
+}
+.h6{
+    width: 120px;
+    margin:0 auto;
 }
